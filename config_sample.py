@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "7928233727:AAH0tGEk3_Vxwk6lAeiMjdCpLsIOohvoy68"
 OWNER_ID = 8455436361
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+TELEGRAM_API = 26944587
+TELEGRAM_HASH = "7261a455f2a6159b8a2fbfecd1a63004"
 DATABASE_URL = ""
 
 # OPTIONAL CONFIG
@@ -11,7 +11,7 @@ TG_PROXY = (
     {}
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
+CMD_SUFFI26944587X = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
 STATUS_LIMIT = 10
@@ -28,8 +28,8 @@ FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 
 # Custom Bot Header
-CUSTOM_BOT_HEADER = "Beast"
-CUSTOM_BOT_HEADER_LINK = "https://t.me/MirrorBeast"
+CUSTOM_BOT_HEADER = "CodeDise"
+CUSTOM_BOT_HEADER_LINK = "https://t.me/CodeDise"
 
 # Hyper Tg Downloader
 HELPER_TOKENS = ""
@@ -41,14 +41,14 @@ MEGA_PASSWORD = ""
 # Disable Options
 DISABLE_TORRENTS = False
 DISABLE_LEECH = False
-DISABLE_BULK = False
-DISABLE_MULTI = False
+DISABLE_BULK = True 
+DISABLE_MULTI = True
 DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "Beast"
-AUTHOR_URL = "https://t.me/MirrorBeast"
+AUTHOR_NAME = "CODEDISE"
+AUTHOR_URL = "https://t.me/CODEDISE"
 
 # Task Limits
 DIRECT_LIMIT = 0
